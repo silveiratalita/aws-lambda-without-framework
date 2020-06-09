@@ -1,0 +1,20 @@
+{
+    "FunctionName": "talita-cli",
+    "FunctionArn": "arn:aws:lambda:us-east-1:343278607681:function:talita-cli:2",
+    "Runtime": "nodejs12.x",
+    "Role": "arn:aws:iam::343278607681:role/lambda-exampe",
+    "Handler": "index.handler",
+    "CodeSize": 401,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 128,
+    "LastModified": "2020-06-09T18:09:25.375+0000",
+    "CodeSha256": "HEonrr+x2Ln1VUv6pgk/AMfA5wQ290B5DAc5VkynVbA=",
+    "Version": "2",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "825580a3-ccc8-4b9c-b044-5aa9a61a8d19",
+    "State": "Active",
+    "LastUpdateStatus": "Successful"
+}
